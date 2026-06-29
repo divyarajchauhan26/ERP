@@ -2,8 +2,6 @@
 
 A comprehensive Enterprise Resource Planning (ERP) system designed for university management. Built with Java, Swing (FlatLaf), and MySQL.
 
-**Developed / Maintained by:** Divyaraj Chauhan
-
 ---
 
 ## 🚀 Features
